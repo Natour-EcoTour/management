@@ -1,35 +1,53 @@
-# Mapa Mental
+# Gerenciamento de Atividades Natour
 
----
-config:
-  theme: redux-dark-color
----
-mindmap
-  root((Natour - APP))
-    id)Conta(
-      Login
-        E-mail e senha
-        Esqueci a minha senha
-      Cadastro
-      Editar perfil
-      Alterar senha
-      Apagar conta
-      Sair
-    id)Privacidade e Termos(
-      Termos de Uso
-      Política de Privacidade
-    id)Permissões(
-      Pedir permissão de localização
-    id)Mapa(
-      Localizar usuário no mapa
-      Pesquisar ponto
-    id)Pontos(
-      Acessar ponto
-      Cadastrar ponto
-      Editar ponto
-      Excluir ponto
-      Detalhes do meu ponto
-    id))Features futuras((
-        Denunciar ponto
-        Denunciar usuário
-        Comentários nos pontos
+## Natour APP
+
+- Docuemntação:
+        - Link para a sprint: [sprint documentação](https://trello.com/b/1fonwDMg/documentacao)
+        - [x] Mapa mental
+        - [ ] Diagrama de sequência
+        - [ ] Diagrama de classe
+        - [ ] BPMN
+        - [ ] Regras de negócio
+        - [ ] História de Usuário
+        - [ ] Diagrama de Casos de Uso
+
+- Design:
+        - Link para a sprint design alta fidelidade: [sprint design alta fidelidade](https://trello.com/b/f0LWJkTZ/desing-app)
+        - Link para o design thinking: link
+        - Link para o figma: link
+
+- Mobile:
+        - Link para a sprint: sprint de desenvolvimento mobile
+
+- Back:
+        - Link para a sprint: sprint de desenvolvimento back-end
+
+- Integração:
+        - Link para a sprint: sprint de integração
+
+## Natour MASTER
+
+- Docuemntação:
+        - Link para a sprint: sprint documentação
+        - [ ] Mapa mental
+        - [ ] Diagrama de sequência
+        - [ ] Diagrama de classe
+        - [ ] BPMN
+        - [ ] Regras de negócio
+        - [ ] História de Usuário
+        - [ ] Diagrama de Casos de Uso
+
+- Design:
+        - Link para a sprint design alta fidelidade: sprint design alta fidelidade
+        - Link para o design thinking: link
+        - Link para o figma: link
+
+- Mobile:
+        - Link para a sprint: sprint de desenvolvimento mobile
+
+- Back:
+        - Link para a sprint: sprint de desenvolvimento back-end
+
+- Integração:
+        - Link para a sprint: sprint de integração
